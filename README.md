@@ -1,3 +1,3 @@
-- 👋 Olá sou a professora Angela, trabalho com a disciplina de Pensamento Computacional.
+- 👋 **Olá sou a professora Angela, trabalho com a disciplina de Pensamento Computacional.
 - 👀 Tennho interesse e aprender a usar o Git Hub
 - 🌱 atualemte estou apreendendo a mexer em alguns códigos...
